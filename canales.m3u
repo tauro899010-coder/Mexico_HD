@@ -1,93 +1,93 @@
 #EXTM3U
-#EXTINF:-1 group-title="México",15 TV
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",15 TV
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
-#EXTINF:-1 group-title="México",8NTV
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",8NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
-#EXTINF:-1 group-title="México",Alcance TV
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Alcance TV
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1 group-title="México",AYM Sports
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",AYM Sports
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 group-title="México",Azteca Clic
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Azteca Clic
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8
-#EXTINF:-1 group-title="México",Azteca Corazon
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Azteca Corazon
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
-#EXTINF:-1 group-title="México",Azteca Corazon
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Azteca Corazon
 https://amg00658-amg00658c57-canelatv-international-5437.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-corazontvaztecaappta-canelatvinternational/playlist.m3u8
-#EXTINF:-1 group-title="México",Azteca Internacional
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun_480p.m3u8
-#EXTINF:-1 group-title="México",Azteca Internacional
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 group-title="México",Azteca Más
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Azteca Más
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="México",Azteca Uno
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Azteca Uno
 https://mdstrm.com/live-stream-playlist/69f3bde44a6aa2a6ccaf1b38.m3u8
-#EXTINF:-1 group-title="México",C4 En Alerta
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",C4 En Alerta
 https://stream.ads.ottera.tv/cl/260822da4iu0s9k28c73fh47d0/854x480_1355200_2_f.m3u8?i=728_6404
-#EXTINF:-1 group-title="México",Canal 26 Aguascalientes
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Canal 26 Aguascalientes
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/chunklist_w709640008_b1428000_sleng.m3u8
-#EXTINF:-1 group-title="México",Canal 44
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Canal 44
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/chunklist_w541086724.m3u8
-#EXTINF:-1 group-title="México",Canal 6
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Canal 6
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 group-title="México",Canal 66
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Canal 66
 https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w384210236_b3428000_sleng.m3u8
-#EXTINF:-1 group-title="México",Canal DW
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Canal DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="México",Canal Once
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Canal Once
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
-#EXTINF:-1 group-title="México",Conecta TV
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-#EXTINF:-1 group-title="México",Estrella TV
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:-1 group-title="México",ExpresaTV
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",ExpresaTV
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
-#EXTINF:-1 group-title="México",Jalisco TV
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Jalisco TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
-#EXTINF:-1 group-title="México",Las Estrellas
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
-#EXTINF:-1 group-title="México",Las Estrellas
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="México",Lobo TV
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Lobo TV
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
-#EXTINF:-1 group-title="México",Maria Vision
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Maria Vision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
-#EXTINF:-1 group-title="México",México Travel
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",México Travel
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/chunklist_w404803247.m3u8
-#EXTINF:-1 group-title="México",Milenio Tv
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Milenio Tv
 https://stream.ads.ottera.tv/cl/260822da4iompkep0s73ao66tg/854x480_1355200_2_f.m3u8?i=728_6403
-#EXTINF:-1 group-title="México",MVS TV
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 group-title="México",Popcorn Central
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Popcorn Central
 https://stream.ads.ottera.tv/cl/260822da4io9f80kos73esmab0/854x480_1355200_3_f.m3u8?i=475_16640
-#EXTINF:-1 group-title="México",Predumiendo Mexico
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Predumiendo Mexico
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-#EXTINF:-1 group-title="México",RCG Media
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",RCG Media
 https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w2013940355.m3u8
-#EXTINF:-1 group-title="México",RTQ
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w489760052.m3u8
-#EXTINF:-1 group-title="México",RTQ
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w1335370615.m3u8
-#EXTINF:-1 group-title="México",Tastemade
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Tastemade
 https://amg00047-amg00047c6-canelatv-international-5854.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeespanoles16us-canelatvinternational/playlist.m3u8
-#EXTINF:-1 group-title="México",TeleFormula
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",TeleFormula
 https://rdf-tf-roku.otteravision.com/rdf/tf/tf_1080p.m3u8
-#EXTINF:-1 group-title="México",TeleFormula
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 group-title="México",Telemax
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Telemax
 https://s5.mexside.net:1936/telemax/telemax/chunklist_w663564611.m3u8
-#EXTINF:-1 group-title="México",Teleritmo
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 group-title="México",TRC
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",TRC
 https://5f1af61612fb5.streamlock.net/trc/videotrc/chunklist_w2006127550.m3u8
-#EXTINF:-1 group-title="México",TV Mas
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",TV Mas
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1300481456.m3u8
-#EXTINF:-1 group-title="México",Tv Mexiquense
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Tv Mexiquense
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w831835511.m3u8
-#EXTINF:-1 group-title="México",Tv Mexiquense
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Tv Mexiquense
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w753899143.m3u8
-#EXTINF:-1 group-title="México",TV Unam
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",TV Unam
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
-#EXTINF:-1 group-title="México",TVP Mazatlán
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",TVP Mazatlán
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w1850035211_b1428000_sleng.m3u8
-#EXTINF:-1 group-title="México",Vision Television
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/026/728/883/non_2x/tv-icon-with-old-antenna-on-white-screen-retro-tv-broadcast-vector.jpg" group-title="México",Vision Television
 https://cloudvideo.servers10.com:8081/8016/index.m3u8

@@ -14,11 +14,11 @@
 # ============================================================
 
 # ---------- CANAL 1: 15 TV ----------
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpZzZKGscsJLtTxc4o8N9YKYxXA2VFLiOE7jQvyqeZs8_AVzqWgufQ14I&s=10" group-title="México",15 TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyBR5QsEOOgE7BjY3M660CwyEbaneBOvWDTxS_wD3n_AC8m-UvBD7K9xxUTnY64QVmHcaLDcGS1BBh4XKitArMB-fJIlQDMdi0B9QQc8Nflav4ECmiSu2uBDh46qeCV_jRelcWjgFLzv35II9yPkgI2JwoGkbLPsekUbSNusU6CVdXIYgptO-mP-lCWsP5/s1600/15tv.png" group-title="México",15 TV
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 
 # ---------- CANAL 2: 8NTV ----------
-#EXTINF:-1 tvg-logo="https://www.ntv.com.mx/8ntv/wp-content/uploads/2023/06/8NTV.png" group-title="México",8NTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIM-7oAYZ_UpOM9HdkkNouOmmh-0rbO9CFCpTCk92DPiFPKj5wq_PDnqP9Bnib3A7zxxPteISiFci8oLGlQ3IIRRtZoRlQp7MTFhgKjzj8XTVdmCY0e_OmfVeU7fnKYAoHpmHKpXmNu4hMqZUjGb3oqajYil6Mddad8F5snXW0poQtlKiVf_jVYoKNAhFn/s1600/8ntv.png" group-title="México",8NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 
 # ---------- CANAL 3: Alcance TV ----------

@@ -38,23 +38,23 @@ https://azt-cl.otteravision.com/azt/cl/cl.m3u8
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
 # ---------- CANAL 7: Azteca Corazon 2 ----------
-#EXTINF:-1 group-title="México",Azteca Corazon 2
+#EXTINF:-1 group-title="México",Azt Latidos 2
 https://amg00658-amg00658c57-canelatv-international-5437.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-corazontvaztecaappta-canelatvinternational/playlist.m3u8
 
 # ---------- CANAL 8: Azteca Internacional ----------
-#EXTINF:-1 group-title="México",Azteca Internacional
+#EXTINF:-1 group-title="México",Azt Internacional
 https://azt-mun.otteravision.com/azt/mun/mun_480p.m3u8
 
 # ---------- CANAL 9: Azteca Internacional 2 ----------
-#EXTINF:-1 group-title="México",Azteca Internacional 2
+#EXTINF:-1 group-title="México",Azt Internacional 2
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 # ---------- CANAL 10: Azteca Más ----------
-#EXTINF:-1 group-title="México",Azteca Más
+#EXTINF:-1 group-title="México",Azt Más
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 # ---------- CANAL 11: Azteca Uno ----------
-#EXTINF:-1 group-title="México",Azteca Uno
+#EXTINF:-1 group-title="México",Azt Uno
 https://mdstrm.com/live-stream-playlist/69f3bde44a6aa2a6ccaf1b38.m3u8
 
 # ---------- CANAL 12: C4 En Alerta ----------
@@ -62,7 +62,7 @@ https://mdstrm.com/live-stream-playlist/69f3bde44a6aa2a6ccaf1b38.m3u8
 https://stream.ads.ottera.tv/cl/260822da4iu0s9k28c73fh47d0/854x480_1355200_2_f.m3u8?i=728_6404
 
 # ---------- CANAL 13: Canal 26 Aguascalientes ----------
-#EXTINF:-1 group-title="México",Canal 26 Aguascalientes
+#EXTINF:-1 group-title="México",Canal 26 
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/chunklist_w709640008_b1428000_sleng.m3u8
 
 # ---------- CANAL 14: Canal 44 ----------
@@ -102,12 +102,8 @@ https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 
 # ---------- CANAL 23: Las Estrellas ----------
-#EXTINF:-1 group-title="México",Las Estrellas
+#EXTINF:-1 group-title="México",Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
-
-# ---------- CANAL 24: Las Estrellas 2 ----------
-#EXTINF:-1 group-title="México",Las Estrellas 2
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 # ---------- CANAL 25: Lobo TV ----------
 #EXTINF:-1 group-title="México",Lobo TV
@@ -134,7 +130,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 https://stream.ads.ottera.tv/cl/260822da4io9f80kos73esmab0/854x480_1355200_3_f.m3u8?i=475_16640
 
 # ---------- CANAL 31: Predumiendo Mexico ----------
-#EXTINF:-1 group-title="México",Predumiendo Mexico
+#EXTINF:-1 group-title="México",Presumiendo Mexico
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 
 # ---------- CANAL 32: RCG Media ----------
@@ -145,10 +141,6 @@ https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w2013940355.m3u8
 #EXTINF:-1 group-title="México",RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w489760052.m3u8
 
-# ---------- CANAL 34: RTQ 2 ----------
-#EXTINF:-1 group-title="México",RTQ 2
-https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w1335370615.m3u8
-
 # ---------- CANAL 35: Tastemade ----------
 #EXTINF:-1 group-title="México",Tastemade
 https://amg00047-amg00047c6-canelatv-international-5854.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeespanoles16us-canelatvinternational/playlist.m3u8
@@ -156,10 +148,6 @@ https://amg00047-amg00047c6-canelatv-international-5854.playouts.now.amagi.tv/pl
 # ---------- CANAL 36: TeleFormula ----------
 #EXTINF:-1 group-title="México",TeleFormula
 https://rdf-tf-roku.otteravision.com/rdf/tf/tf_1080p.m3u8
-
-# ---------- CANAL 37: TeleFormula 2 ----------
-#EXTINF:-1 group-title="México",TeleFormula 2
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 # ---------- CANAL 38: Telemax ----------
 #EXTINF:-1 group-title="México",Telemax
@@ -180,10 +168,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1300481456.m3u8
 # ---------- CANAL 42: Tv Mexiquense ----------
 #EXTINF:-1 group-title="México",Tv Mexiquense
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w831835511.m3u8
-
-# ---------- CANAL 43: Tv Mexiquense 2 ----------
-#EXTINF:-1 group-title="México",Tv Mexiquense 2
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w753899143.m3u8
 
 # ---------- CANAL 44: TV Unam ----------
 #EXTINF:-1 group-title="México",TV Unam

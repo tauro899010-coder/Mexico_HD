@@ -30,11 +30,11 @@ https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
 # ---------- CANAL 5: Azteca Clic ----------
-#EXTINF:-1 group-title="México",Azteca Clic
+#EXTINF:-1 group-title="México",Azt Clic
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8
 
 # ---------- CANAL 6: Azteca Corazon ----------
-#EXTINF:-1 group-title="México",Azteca Corazon
+#EXTINF:-1 group-title="México",Azt Latidos
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
 # ---------- CANAL 7: Azteca Corazon 2 ----------

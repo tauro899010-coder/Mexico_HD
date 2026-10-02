@@ -143,7 +143,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 # ---------- CANAL 33: Popcorn Central ----------
 #EXTINF:-1 group-title="México",Popcorn Central
-https://stream.ads.ottera.tv/cl/260822da4io9f80kos73esmab0/854x480_1355200_3_f.m3u8?i=475_16640
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640
 
 # ---------- CANAL 34: Presumiendo Mexico ----------
 #EXTINF:-1 group-title="México",Presumiendo Mexico

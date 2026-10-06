@@ -37,8 +37,8 @@ http://187.245.231.227:8000/play/a0uz/12809528.m3u8
 #EXTINF:-1 group-title="México",Azt Clic
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8
 
-# ---------- CANAL 8: Azt Internacional 2 ----------
-#EXTINF:-1 group-title="México",Azt Internacional 2
+# ---------- CANAL 8: Azt Internacional ----------
+#EXTINF:-1 group-title="México",Azt Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 # ---------- CANAL 9: Azt Latidos ----------

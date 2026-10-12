@@ -93,9 +93,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="México",Canal Once
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
 
-# ---------- CANAL 22: Cine Mexicano ----------
-#EXTINF:-1 group-title="México",Cine Mexicano
-http://181.78.8.199:8000/play/a0e1/index.m3u8
+# ---------- CANAL 22: Accion Mexicana ----------
+#EXTINF:-1 group-title="México",Accion Mexicana
+https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-accionmexicana-canelatvinternational/playlist.m3u8
 
 # ---------- CANAL 23: Conecta TV ----------
 #EXTINF:-1 group-title="México",Conecta TV

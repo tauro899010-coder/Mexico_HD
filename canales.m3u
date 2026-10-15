@@ -149,9 +149,9 @@ https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/chunklist_w4
 #EXTINF:-1 group-title="México",Milenio Tv
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-# ---------- CANAL 36: Multipremier ----------
-#EXTINF:-1 group-title="México",Multipremier
-http://186.33.61.182:8000/play/a04q/index.m3u8
+# ---------- CANAL 36: Life Time ----------
+#EXTINF:-1 group-title="México",Life Time
+http://190.14.248.42:8000/play/a001/index.m3u8
 
 # ---------- CANAL 37: MVS TV ----------
 #EXTINF:-1 group-title="México",MVS TV

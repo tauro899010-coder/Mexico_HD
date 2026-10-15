@@ -233,9 +233,9 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w18
 #EXTINF:-1 group-title="México",Unicable
 http://186.33.61.182:8000/play/a05o/index.m3u8
 
-# ---------- CANAL 57: Univision HD ----------
-#EXTINF:-1 group-title="México",Univision HD
-http://186.33.61.182:8000/play/a05a/index.m3u8
+# ---------- CANAL 57: Univision ----------
+#EXTINF:-1 group-title="México",Univision
+http://190.14.248.42:8000/play/a024/index.m3u8
 
 # ---------- CANAL 58: Vision Television ----------
 #EXTINF:-1 group-title="México",Vision Television

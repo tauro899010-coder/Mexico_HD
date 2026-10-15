@@ -209,9 +209,9 @@ http://190.14.248.42:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="México",TRC
 https://5f1af61612fb5.streamlock.net/trc/videotrc/chunklist_w2006127550.m3u8
 
-# ---------- CANAL 51: TUDN MX ----------
-#EXTINF:-1 group-title="México",TUDN MX
-http://186.33.61.182:8000/play/a05n/index.m3u8
+# ---------- CANAL 51: TUDN ----------
+#EXTINF:-1 group-title="México",TUDN
+http://138.59.177.78:9999/play/a07z/index.m3u8
 
 # ---------- CANAL 52: TV Mas ----------
 #EXTINF:-1 group-title="México",TV Mas

@@ -55,7 +55,7 @@ https://mdstrm.com/live-stream-playlist/69f3bde44a6aa2a6ccaf1b38.m3u8
 
 # ---------- CANAL 12: Bandamax ----------
 #EXTINF:-1 group-title="México",Bandamax
-http://190.14.248.42:8000/play/a02f/index.m3u8
+http://138.59.177.78:9999/play/a090/index.m3u8
 
 # ---------- CANAL 13: Bitme ----------
 #EXTINF:-1 group-title="México",Bitme
@@ -235,7 +235,7 @@ http://138.59.177.78:9999/play/a08a/index.m3u8
 
 # ---------- CANAL 57: Univision ----------
 #EXTINF:-1 group-title="México",Univision
-http://190.14.248.42:8000/play/a024/index.m3u8
+http://138.59.177.78:9999/play/a03c/index.m3u8
 
 # ---------- CANAL 58: Vision Television ----------
 #EXTINF:-1 group-title="México",Vision Television
